@@ -1,0 +1,3 @@
+scaffold-dbcontext "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=xe)));Persist Security Info=True;User Id=restaurant;Password=sqlserver;" Oracle.EntityFrameworkCore -Schemas Restaurant -Tables Restaurant.customer, Restaurant.diningtable, Restaurant.waiter, Restaurant.food, Restaurant.bill, Restaurant.billdetail -OutputDir Models -force
+
+DATA SOURCE=localhost:1521/xe;User Id=restaurant;Password=sqlserver;PERSIST SECURITY INFO=True;
