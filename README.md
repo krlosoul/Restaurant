@@ -8,5 +8,5 @@
 <p>Reporte facturas en rango de fecha, cliente, mesero, mesa, plato o numero de factura</p>
 <p>Reporte ventas por cliente en rango de fecha y venta minima</p>
 <p>Reporte plato mas vendido en rango de fecha</p>
-<p>Reporte vemtas por mesero en rango de fecha</p>
+<p>Reporte ventas por mesero en rango de fecha</p>
 <p><a href="https://ibb.co/MCm5ZNR"><img src="https://i.ibb.co/YLxTPjt/Captura-de-pantalla-10.png" border="0"></a></p>
